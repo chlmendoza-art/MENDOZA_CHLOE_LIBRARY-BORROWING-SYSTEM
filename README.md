@@ -27,15 +27,6 @@ This project demonstrates key programming concepts such as **object‑oriented d
    cd LibraryBorrowingSystem
 3. python main.py
 
-# PROJECT STRUCTURE
-LibraryBorrowingSystem/
-│
-├── book.py        # Book model: title, author, ISBN, status
-├── borrower.py    # Borrower model: name, ID, borrow/return logic
-├── library.py     # Core library logic: manage books and borrowers
-├── main.py        # CLI entry point with menu and user interaction
-└── records.csv    # (Optional) Data storage for records
-
 # SAMPLE CLI USAGE
 
  # ADDING A BOOK
